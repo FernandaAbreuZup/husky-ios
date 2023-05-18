@@ -1,0 +1,4 @@
+.swiftpm
+DerivedData/
+.build/
+node_modules
