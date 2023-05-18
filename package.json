@@ -1,0 +1,25 @@
+{
+  "name": "husky-ios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "npx husky install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "@commitlint/cli": "^17.5.1",
+    "@commitlint/config-conventional": "^17.4.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandaAbreuZup/husky-ios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandaAbreuZup/husky-ios/issues"
+  },
+  "homepage": "https://github.com/FernandaAbreuZup/husky-ios#readme"
+}

@@ -5,6 +5,109 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>187795BB-118F-4796-B753-50170429535F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>187795BB-118F-4796-B753-50170429535F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>samplehusky project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>samplehusky</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build samplehusky</string>
+			<key>timeStartedRecording</key>
+			<real>706139159.46071994</real>
+			<key>timeStoppedRecording</key>
+			<real>706139173.24715495</real>
+			<key>title</key>
+			<string>Build samplehusky</string>
+			<key>uniqueIdentifier</key>
+			<string>187795BB-118F-4796-B753-50170429535F</string>
+		</dict>
+		<key>6E76169A-128D-4772-8BB5-4A904E79A05D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6E76169A-128D-4772-8BB5-4A904E79A05D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>samplehusky project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>samplehusky</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build samplehusky</string>
+			<key>timeStartedRecording</key>
+			<real>706139250.86454296</real>
+			<key>timeStoppedRecording</key>
+			<real>706139250.98666894</real>
+			<key>title</key>
+			<string>Build samplehusky</string>
+			<key>uniqueIdentifier</key>
+			<string>6E76169A-128D-4772-8BB5-4A904E79A05D</string>
+		</dict>
+		<key>C3979FEB-66FB-4DB7-94D6-69D75EE69462</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C3979FEB-66FB-4DB7-94D6-69D75EE69462.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>samplehusky project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>samplehusky</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build samplehusky</string>
+			<key>timeStartedRecording</key>
+			<real>706139267.79692602</real>
+			<key>timeStoppedRecording</key>
+			<real>706139273.68121302</real>
+			<key>title</key>
+			<string>Build samplehusky</string>
+			<key>uniqueIdentifier</key>
+			<string>C3979FEB-66FB-4DB7-94D6-69D75EE69462</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

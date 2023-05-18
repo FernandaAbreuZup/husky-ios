@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "c590576ff23c03a38188f39ffd9b4f24ef06d504af551dcd76e4cac934177365"
+build_start_time: [1684446363, 284641027]
+build_end_time: [1684446363, 669486045]
+inputs:
+  "/Users/fernandaolimpiojesusdeabreu/husky-ios/samplehusky/samplehusky/AppDelegate.swift": !private [1684444133, 47448635]
+  "/Users/fernandaolimpiojesusdeabreu/husky-ios/samplehusky/samplehusky/SceneDelegate.swift": !private [1684444133, 53960561]
+  "/Users/fernandaolimpiojesusdeabreu/husky-ios/samplehusky/samplehusky/ViewController.swift": !private [1684444133, 56302070]

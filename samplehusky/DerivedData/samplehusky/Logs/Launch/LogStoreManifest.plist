@@ -5,6 +5,142 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>2C9150BC-2288-4D16-8A2D-1FCBF6AC6CF1</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>6E76169A-128D-4772-8BB5-4A904E79A05D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-samplehusky-2023.05.18_18-47-30--0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>samplehusky project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>samplehusky</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run samplehusky</string>
+			<key>timeStartedRecording</key>
+			<real>706139250.86429298</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run samplehusky</string>
+			<key>uniqueIdentifier</key>
+			<string>2C9150BC-2288-4D16-8A2D-1FCBF6AC6CF1</string>
+		</dict>
+		<key>762C5FAA-032C-42E3-873E-B7092EF3380D</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>C3979FEB-66FB-4DB7-94D6-69D75EE69462</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-samplehusky-2023.05.18_18-47-47--0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>samplehusky project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>samplehusky</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run samplehusky</string>
+			<key>timeStartedRecording</key>
+			<real>706139267.79671001</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run samplehusky</string>
+			<key>uniqueIdentifier</key>
+			<string>762C5FAA-032C-42E3-873E-B7092EF3380D</string>
+		</dict>
+		<key>AD971B09-C8E3-4646-BD6D-C0538A27E2E4</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>187795BB-118F-4796-B753-50170429535F</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-samplehusky-2023.05.18_18-45-59--0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>samplehusky project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>samplehusky</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run samplehusky</string>
+			<key>timeStartedRecording</key>
+			<real>706139159.45861399</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run samplehusky</string>
+			<key>uniqueIdentifier</key>
+			<string>AD971B09-C8E3-4646-BD6D-C0538A27E2E4</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

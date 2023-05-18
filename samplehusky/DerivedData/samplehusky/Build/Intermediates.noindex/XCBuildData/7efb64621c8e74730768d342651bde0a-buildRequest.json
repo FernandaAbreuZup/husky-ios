@@ -1,0 +1,63 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "c10a863d47b7f987ec0c48e1f7ba1ebf8bf0459e7b47c3b77601751126ab8365"
+    }
+  ],
+  "containerPath" : "/Users/fernandaolimpiojesusdeabreu/husky-ios/samplehusky/samplehusky.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.1",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/fernandaolimpiojesusdeabreu/husky-ios/samplehusky/DerivedData/samplehusky/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/fernandaolimpiojesusdeabreu/husky-ios/samplehusky/DerivedData/samplehusky/Build/Products",
+      "derivedDataPath" : "/Users/fernandaolimpiojesusdeabreu/husky-ios/samplehusky/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/fernandaolimpiojesusdeabreu/husky-ios/samplehusky/DerivedData/samplehusky/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/fernandaolimpiojesusdeabreu/husky-ios/samplehusky/DerivedData/samplehusky/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/fernandaolimpiojesusdeabreu/husky-ios/samplehusky/DerivedData/samplehusky/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone15,2",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "1731ABF0-8F40-419F-AA32-3CD240CCBE6E",
+          "TARGET_DEVICE_MODEL" : "iPhone15,2",
+          "TARGET_DEVICE_OS_VERSION" : "16.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
